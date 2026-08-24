@@ -97,7 +97,7 @@ every spell into a devastating threat.
 1 Twinflame
 1 Twinning Staff
 1 Unexpected Windfall
-1 Walk the Aeons
+1 Volcanic Vision
 1 Young Pyromancer
 1 Command Tower
 1 Evolving Wilds
