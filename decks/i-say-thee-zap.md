@@ -85,7 +85,7 @@ every spell into a devastating threat.
 1 Rootha, Mercurial Artist
 1 Seething Song
 1 Seize the Spoils
-1 Slice and Dice
+1 Splatter Technique
 1 Smoldering Egg // Ashmouth Dragon
 1 Snap
 1 Sol Ring
