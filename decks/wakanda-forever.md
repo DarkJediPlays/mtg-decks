@@ -8,6 +8,7 @@
 1 Armorcraft Judge
 1 Bast, Panther Goddess
 1 Birds of Paradise
+1 Conduit of Worlds
 1 Conqueror's Flail
 1 Basilisk Collar
 1 Dispatch
