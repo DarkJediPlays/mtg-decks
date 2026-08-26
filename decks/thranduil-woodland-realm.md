@@ -73,7 +73,6 @@ When Thranduil is removed, the Ooze immediately takes over the full combo.
 1 Rishkar, Peema Renegade — +1/+1 on two creatures; they tap for {G}
 1 Elvish Visionary — ETB: draw a card
 1 Wildborn Preserver — flash; counter synergy
-1 Wildwood Scourge — gets counter whenever any other creature does
 1 Skemfar Shadowsage — whenever you cast an Elf spell, each opponent loses 1 life
 1 Cantankerous Keepers — affinity for Elves; mills 4 and puts Elf cards into hand on ETB
 1 Elvish Regrower — ETB: return an Elf from your GY to hand
