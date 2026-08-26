@@ -43,7 +43,6 @@
 1 Casualties of War
 1 Decree of Pain
 1 World War Hulk
-1 Season of Gathering
 1 Binding the Old Gods
 1 Skullclamp
 1 Sol Ring
