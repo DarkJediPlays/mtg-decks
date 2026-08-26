@@ -5,6 +5,7 @@
 
 1 Gilded Goose
 1 Haywire Mite
+1 Reclamation Sage
 1 Ravenous Squirrel
 1 Prosperous Innkeeper
 1 Squirrel Sovereign
