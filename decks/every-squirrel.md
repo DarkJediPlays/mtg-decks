@@ -17,6 +17,7 @@
 1 Scurry of Squirrels
 1 Tireless Provisioner
 1 Woe Strider
+1 Arasta of the Endless Web
 1 Chittering Witch
 1 Hazel's Brewmaster
 1 Poison-Tip Archer
