@@ -5,7 +5,6 @@
 
 1 Arcane Signet
 1 Archangel of Thune
-1 Arkenstone
 1 Armorcraft Judge
 1 Bast, Panther Goddess
 1 Birds of Paradise
