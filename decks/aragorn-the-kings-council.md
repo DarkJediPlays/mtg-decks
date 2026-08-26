@@ -27,6 +27,7 @@
 1 Third Path Iconoclast
 1 Tolsimir Wolfblood
 1 Wilt-Leaf Liege
+1 Balefire Liege
 1 Atarka's Command
 1 Bant Charm
 1 Beast Within
@@ -47,6 +48,7 @@
 1 Tamiyo's Safekeeping
 1 Temur Charm
 1 Treva's Charm
+1 Rith's Charm
 1 Blasphemous Act
 1 Deafening Clarion
 1 Eureka Moment
@@ -58,6 +60,9 @@
 1 Cindervines
 1 Incandescent Aria
 1 Jeskai Ascendancy
+1 Whirlwind of Thought
+1 Legion Leadership // Legion Stronghold
+1 Lifelong Friendship
 1 Rite of Harmony
 1 Shield of the Oversoul
 1 Shielding Plax
