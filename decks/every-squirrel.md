@@ -62,7 +62,7 @@
 1 Squirrel Nest
 1 Moldervine Reclamation
 1 Innkeeper's Talent
-1 Mirkwood Bats
+1 Season of Gathering
 1 Barren Moor
 1 Bojuka Bog
 1 Command Tower
