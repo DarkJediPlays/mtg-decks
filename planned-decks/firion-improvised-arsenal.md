@@ -83,17 +83,14 @@
 1 Buried Ruin
 1 Inventors' Fair
 1 Phyrexia's Core
-1 Fiery Islet
-1 Sunbaked Canyon
 1 Forgotten Cave
 1 Smoldering Spires
 1 Spinerock Knoll
 1 Ash Barrens
 1 Escape Tunnel
 1 Dwarven Mine
-1 Slayers' Stronghold
 1 Barbarian Ring
-22 Mountain
+25 Mountain
 1 Skirk Prospector
 1 Shimmer Myr
 1 Galvanic Blast
