@@ -45,7 +45,7 @@
 1 Continue?
 1 Endless Foot Assault
 1 Fast Forward
-1 Special Move
+1 Dark Leo & Shredder
 1 High Score
 1 Level Up
 1 Super Combo
