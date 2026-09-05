@@ -27,6 +27,7 @@ Versioned decklists with full change history. Each commit message describes exac
 | [The Lathril Accord](planned-decks/lathril-the-lathril-accord.md) | Lathril, Blade of the Elves | BG | 3 | ~£100 |
 | [Cowabunga, You Idiots!](planned-decks/splinter-cowabunga-you-idiots.md) | Splinter, Radical Rat | WUB | 3 | ~£90 |
 | [Improvised Violence](planned-decks/firion-improvised-arsenal.md) | Firion, Wild Rose Warrior | R | 3 | ~£130 |
+| [The Endless Curriculum](planned-decks/jodah-endless-curriculum.md) | Jodah, Archmage Eternal | WUBRG | 3-4 | ~£250 |
 | [The Copier's Curse](planned-decks/anhelo-the-copiers-curse.md) | Anhelo, the Painter | UBR | 3 | ~£100 |
 
 ---
