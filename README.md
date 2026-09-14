@@ -11,7 +11,7 @@ Versioned decklists with full change history. Each commit message describes exac
 | [Wakanda Forever](decks/wakanda-forever.md) | T'Challa, the Black Panther | GW | 3 |
 | [The King's Council](decks/aragorn-the-kings-council.md) | Aragorn, the Uniter | WURG | 3 |
 | [The Woodland Realm](decks/thranduil-woodland-realm.md) | Thranduil, the Elvenking | BGU | 4 |
-| [I Say Thee ZAP!](decks/i-say-thee-zap.md) | Ludevic & Esior | UR | 4 |
+| [Tempest Artist](decks/alania-storm-chain.md) | Alania, Divergent Storm | UR | 3-4 |
 | [Trance State](decks/kuja-trance-state.md) | Kuja, Genome Sorcerer | BR | 2 |
 
 ## Planned / Designed
