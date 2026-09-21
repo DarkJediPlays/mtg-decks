@@ -34,7 +34,7 @@
 1 Dovin's Veto
 1 Endless Detour
 1 Generous Gift
-1 Guttural Response
+1 Chromatic Lantern
 1 Hull Breach
 1 Izzet Charm
 1 Jeskai Charm
@@ -89,7 +89,7 @@
 1 Rockfall Vale
 1 Seachrome Coast
 1 Temple Garden
-1 Temple of Epiphany
+1 Minas Tirith
 1 Temple of Plenty
 1 Temple of Triumph
 1 Wandering Fumarole
