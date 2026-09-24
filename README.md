@@ -13,6 +13,8 @@ Versioned decklists with full change history. Each commit message describes exac
 | [The Woodland Realm](decks/thranduil-woodland-realm.md) | Thranduil, the Elvenking | BGU | 4 |
 | [Tempest Artist](decks/alania-storm-chain.md) | Alania, Divergent Storm | UR | 3-4 |
 | [Trance State](decks/kuja-trance-state.md) | Kuja, Genome Sorcerer | BR | 2 |
+| [Limit Break](decks/cloud-limit-break.md) | Cloud, Ex-SOLDIER | RGW | 2 |
+| [Scions & Spellcraft](decks/yshtola-scions-spellcraft.md) | Y'shtola, Night's Blessed | WUB | 2 |
 
 ## Planned / Designed
 
