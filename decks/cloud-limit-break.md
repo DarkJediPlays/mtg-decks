@@ -11,7 +11,6 @@
 
 ## Creatures (24)
 1 Aerith, Last Ancient
-1 Armory Automaton
 1 Avalanche of Sector 7
 1 Barret Wallace
 1 Barret, Avalanche Leader
@@ -20,7 +19,8 @@
 1 Bugenhagen, Wise Elder
 1 Cait Sith, Fortune Teller
 1 Cid, Freeflier Pilot
-1 Elena, Turk Recruit
+1 Cloud, Midgar Mercenary
+1 Cloud, Planet's Champion
 1 Heidegger, Shinra Executive
 1 Helitrooper
 1 Hellkite Tyrant

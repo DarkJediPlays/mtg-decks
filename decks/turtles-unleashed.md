@@ -89,10 +89,11 @@
 1 Thriving Isle
 1 Thriving Moor
 1 Escape Tunnel
+1 Gleaming Bastion
 1 Turtle Lair
 1 Plains
 3 Mountain
-2 Island
+1 Island
 2 Swamp
 4 Forest
 
